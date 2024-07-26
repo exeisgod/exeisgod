@@ -2,7 +2,6 @@
 # Hi, I am starkisgod
 ![profile count](https://komarev.com/ghpvc/?username=starkisgod&color=blue)&nbsp;
 [![GitHub Stats](https://img.shields.io/github/followers/starkisgod?label=follow&style=social)](https://github.com/starkisgod)&nbsp;
-<a href="https://instagram.com/starkisgodc02"><img src="https://img.shields.io/badge/@starkisgod-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Languages and Technologies I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
