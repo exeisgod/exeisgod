@@ -19,6 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=starkisgod&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=starkisgod&theme=radical" />
 </p>
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
+    <img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation">
+</p>
+</h2>
 
 Feel free to further customize or let me know if you need any adjustments!
