@@ -7,7 +7,6 @@ Profile views<br>
  <img src="https://profile-counter.glitch.me/aydocs/count.svg" />
 </p>
 
-![profile count](https://komarev.com/ghpvc/?username=starkisgod&color=blue)&nbsp;
 [![GitHub Stats](https://img.shields.io/github/followers/starkisgod?label=follow&style=social)](https://github.com/starkisgod)&nbsp;
 
 ## Languages and Technologies I Know:
